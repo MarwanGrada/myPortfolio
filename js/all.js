@@ -438,7 +438,7 @@ $(window).load(function(){
       inClass               :   'fade-in',
       outClass              :   'fade-out',
       inDuration            :    3000,
-      outDuration           :    4000,
+      outDuration           :    3000,
       linkElement           :   '.animsition-link',
          // e.g. linkElement   :   'a:not([target="_blank"]):not([href^=#])'
       loading               :    false,
